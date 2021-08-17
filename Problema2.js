@@ -50,3 +50,8 @@ array=[num1,num2,num3];
 array.forEach(element =>  {
     document.write(element+"<br>");
 });
+
+
+
+document.write("AQUI ESTOY !");
+alert("AQUI ESTOY!");
